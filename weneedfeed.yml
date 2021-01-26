@@ -3,9 +3,9 @@ pages:
     title: Vitalik Buterin's website
     description: Vitalik Buterin's website
     url: https://vitalik.ca/
-    item_selector: a.post-link
+    item_selector: .post-list li
     # item_description_selector: p:nth-child(3)
     # item_image_selector: img
-    item_link_selector: .
-    #item_time_selector: time
-    item_title_selector: .
+    item_link_selector: .post-link
+    item_time_selector: .post-meta
+    item_title_selector: .post-link
