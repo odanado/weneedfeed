@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Vitalik Buterin's website]]></title>
+    <link>https://vitalik.ca/</link>
+    <atom:link href="https://odanado.github.io/weneedfeed/feeds/vitalik.xml" rel="self"/>
+    <description><![CDATA[Vitalik Buterin's website]]></description>
+    <lastBuildDate>Tue, 26 Jan 2021 11:51:06 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[An approximate introduction to how zk-SNARKs are possible]]></title>
+      <link>https://vitalik.ca/general/2021/01/26/snarks.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2021/01/26/snarks.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Why we need wide adoption of social recovery wallets]]></title>
+      <link>https://vitalik.ca/general/2021/01/11/recovery.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2021/01/11/recovery.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[An Incomplete Guide to Rollups]]></title>
+      <link>https://vitalik.ca/general/2021/01/05/rollup.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2021/01/05/rollup.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Endnotes on 2020: Crypto and Beyond]]></title>
+      <link>https://vitalik.ca/general/2020/12/28/endnotes.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/12/28/endnotes.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Convex and Concave Dispositions]]></title>
+      <link>https://vitalik.ca/general/2020/11/08/concave.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/11/08/concave.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Why Proof of Stake (Nov 2020)]]></title>
+      <link>https://vitalik.ca/general/2020/11/06/pos2020.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/11/06/pos2020.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Gitcoin Grants Round 7 Retrospective]]></title>
+      <link>https://vitalik.ca/general/2020/10/18/round7.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/10/18/round7.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Coordination, Good and Bad]]></title>
+      <link>https://vitalik.ca/general/2020/09/11/coordination.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/09/11/coordination.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Trust Models]]></title>
+      <link>https://vitalik.ca/general/2020/08/20/trust.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/08/20/trust.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[A Philosophy of Blockchain Validation]]></title>
+      <link>https://vitalik.ca/general/2020/08/17/philosophy.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/08/17/philosophy.html</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
