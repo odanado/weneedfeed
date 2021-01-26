@@ -9,3 +9,11 @@ pages:
     item_link_selector: .post-link
     item_time_selector: .post-meta
     item_title_selector: .post-link
+
+  - id: nuxt-community
+    title: nuxt-community
+    url: https://github.com/nuxt-community
+    item_selector: ul li.public
+    item_title_selector: "[itemprop^='name']"
+    item_link_selector: "[itemprop^='name']"
+    item_time_selector: relative-time
