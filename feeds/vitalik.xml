@@ -7,7 +7,7 @@
     <link>https://vitalik.ca/</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/vitalik.xml" rel="self"/>
     <description><![CDATA[Vitalik Buterin's website]]></description>
-    <lastBuildDate>Fri, 29 Jan 2021 00:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 00:54:58 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[An approximate introduction to how zk-SNARKs are possible]]></title>
@@ -82,6 +82,30 @@
     </item>
     
     <item>
+      <title><![CDATA[為什麼權益證明棒棒的（2020 年十一月）]]></title>
+      <link>https://vitalik.ca/general/2020/11/06/pos2020_zhTW.html</link>
+      
+        <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/11/06/pos2020_zhTW.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[ 7ème tour des subventions Gitcoin - Rétrospective ]]></title>
+      <link>https://vitalik.ca/general/2020/10/18/round7_FR.html</link>
+      
+        <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/10/18/round7_FR.html</guid>
+      
+    </item>
+    
+    <item>
       <title><![CDATA[Gitcoin Grants Round 7 Retrospective]]></title>
       <link>https://vitalik.ca/general/2020/10/18/round7.html</link>
       
@@ -102,30 +126,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://vitalik.ca/general/2020/09/11/coordination.html</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Trust Models]]></title>
-      <link>https://vitalik.ca/general/2020/08/20/trust.html</link>
-      
-        <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://vitalik.ca/general/2020/08/20/trust.html</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[A Philosophy of Blockchain Validation]]></title>
-      <link>https://vitalik.ca/general/2020/08/17/philosophy.html</link>
-      
-        <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://vitalik.ca/general/2020/08/17/philosophy.html</guid>
       
     </item>
     

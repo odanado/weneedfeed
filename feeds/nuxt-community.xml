@@ -7,19 +7,19 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 29 Jan 2021 00:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 00:54:59 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            markdownit-module
+            dayjs-module
 ]]></title>
-      <link>https://github.com/nuxt-community/markdownit-module</link>
+      <link>https://github.com/nuxt-community/dayjs-module</link>
       
-        <pubDate>Fri, 29 Jan 2021 00:50:55 -0000</pubDate>
+        <pubDate>Sat, 30 Jan 2021 00:30:24 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/markdownit-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
       
     </item>
     
@@ -29,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/i18n-module</link>
       
-        <pubDate>Thu, 28 Jan 2021 23:23:01 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 21:03:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -39,113 +39,113 @@
     
     <item>
       <title><![CDATA[
-            auth-module
+            firebase-module
 ]]></title>
-      <link>https://github.com/nuxt-community/auth-module</link>
+      <link>https://github.com/nuxt-community/firebase-module</link>
       
-        <pubDate>Thu, 28 Jan 2021 20:03:56 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 20:36:16 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            color-mode-module
+            sentry-module
 ]]></title>
-      <link>https://github.com/nuxt-community/color-mode-module</link>
+      <link>https://github.com/nuxt-community/sentry-module</link>
       
-        <pubDate>Thu, 28 Jan 2021 15:45:33 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 16:49:20 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            sanity-module
+            awesome-nuxt
 ]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
+      <link>https://github.com/nuxt-community/awesome-nuxt</link>
       
-        <pubDate>Thu, 28 Jan 2021 13:16:45 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 16:40:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/awesome-nuxt</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            fontawesome-module
+            pwa-module
 ]]></title>
-      <link>https://github.com/nuxt-community/fontawesome-module</link>
+      <link>https://github.com/nuxt-community/pwa-module</link>
       
-        <pubDate>Thu, 28 Jan 2021 10:10:33 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 12:41:21 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/fontawesome-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/pwa-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            prismic-module
+            google-fonts-module
 ]]></title>
-      <link>https://github.com/nuxt-community/prismic-module</link>
+      <link>https://github.com/nuxt-community/google-fonts-module</link>
       
-        <pubDate>Thu, 28 Jan 2021 02:08:26 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 12:39:31 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/prismic-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/google-fonts-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            device-module
+            composition-api
 ]]></title>
-      <link>https://github.com/nuxt-community/device-module</link>
+      <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Thu, 28 Jan 2021 02:02:05 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 12:33:06 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            community-modules
+            snipcart-module
 ]]></title>
-      <link>https://github.com/nuxt-community/community-modules</link>
+      <link>https://github.com/nuxt-community/snipcart-module</link>
       
-        <pubDate>Wed, 27 Jan 2021 20:51:40 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 12:22:28 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/community-modules</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            cloudinary-module
+            storybook
 ]]></title>
-      <link>https://github.com/nuxt-community/cloudinary-module</link>
+      <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Wed, 27 Jan 2021 08:19:26 -0000</pubDate>
+        <pubDate>Fri, 29 Jan 2021 12:20:36 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
       
     </item>
     
