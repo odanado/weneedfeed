@@ -7,7 +7,91 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sat, 30 Jan 2021 00:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 00:58:08 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+            vuetify-module
+]]></title>
+      <link>https://github.com/nuxt-community/vuetify-module</link>
+      
+        <pubDate>Sat, 30 Jan 2021 17:57:31 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/vuetify-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            html-minifier-module
+]]></title>
+      <link>https://github.com/nuxt-community/html-minifier-module</link>
+      
+        <pubDate>Sat, 30 Jan 2021 13:54:46 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/html-minifier-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            svg-module
+]]></title>
+      <link>https://github.com/nuxt-community/svg-module</link>
+      
+        <pubDate>Sat, 30 Jan 2021 11:09:07 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/svg-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            recaptcha-module
+]]></title>
+      <link>https://github.com/nuxt-community/recaptcha-module</link>
+      
+        <pubDate>Sat, 30 Jan 2021 11:02:46 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/recaptcha-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            markdownit-module
+]]></title>
+      <link>https://github.com/nuxt-community/markdownit-module</link>
+      
+        <pubDate>Sat, 30 Jan 2021 01:55:44 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/markdownit-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            device-module
+]]></title>
+      <link>https://github.com/nuxt-community/device-module</link>
+      
+        <pubDate>Sat, 30 Jan 2021 01:40:53 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -15,11 +99,25 @@
 ]]></title>
       <link>https://github.com/nuxt-community/dayjs-module</link>
       
-        <pubDate>Sat, 30 Jan 2021 00:30:24 -0000</pubDate>
+        <pubDate>Sat, 30 Jan 2021 01:31:42 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            sanity-module
+]]></title>
+      <link>https://github.com/nuxt-community/sanity-module</link>
+      
+        <pubDate>Sat, 30 Jan 2021 01:01:05 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
       
     </item>
     
@@ -48,104 +146,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            sentry-module
-]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
-      
-        <pubDate>Fri, 29 Jan 2021 16:49:20 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            awesome-nuxt
-]]></title>
-      <link>https://github.com/nuxt-community/awesome-nuxt</link>
-      
-        <pubDate>Fri, 29 Jan 2021 16:40:39 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/awesome-nuxt</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            pwa-module
-]]></title>
-      <link>https://github.com/nuxt-community/pwa-module</link>
-      
-        <pubDate>Fri, 29 Jan 2021 12:41:21 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/pwa-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            google-fonts-module
-]]></title>
-      <link>https://github.com/nuxt-community/google-fonts-module</link>
-      
-        <pubDate>Fri, 29 Jan 2021 12:39:31 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/google-fonts-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            composition-api
-]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
-      
-        <pubDate>Fri, 29 Jan 2021 12:33:06 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            snipcart-module
-]]></title>
-      <link>https://github.com/nuxt-community/snipcart-module</link>
-      
-        <pubDate>Fri, 29 Jan 2021 12:22:28 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            storybook
-]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
-      
-        <pubDate>Fri, 29 Jan 2021 12:20:36 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
       
     </item>
     
