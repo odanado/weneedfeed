@@ -7,103 +7,103 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 31 Jan 2021 00:58:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 00:58:26 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            vuetify-module
+            mdx-module
 ]]></title>
-      <link>https://github.com/nuxt-community/vuetify-module</link>
+      <link>https://github.com/nuxt-community/mdx-module</link>
       
-        <pubDate>Sat, 30 Jan 2021 17:57:31 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 21:57:00 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/vuetify-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/mdx-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            html-minifier-module
+            style-resources-module
 ]]></title>
-      <link>https://github.com/nuxt-community/html-minifier-module</link>
+      <link>https://github.com/nuxt-community/style-resources-module</link>
       
-        <pubDate>Sat, 30 Jan 2021 13:54:46 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 19:56:27 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/html-minifier-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/style-resources-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            svg-module
+            cloudinary-module
 ]]></title>
-      <link>https://github.com/nuxt-community/svg-module</link>
+      <link>https://github.com/nuxt-community/cloudinary-module</link>
       
-        <pubDate>Sat, 30 Jan 2021 11:09:07 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 16:13:14 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/svg-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            recaptcha-module
+            web-vitals-module
 ]]></title>
-      <link>https://github.com/nuxt-community/recaptcha-module</link>
+      <link>https://github.com/nuxt-community/web-vitals-module</link>
       
-        <pubDate>Sat, 30 Jan 2021 11:02:46 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 14:59:29 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/recaptcha-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/web-vitals-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            markdownit-module
+            composition-api
 ]]></title>
-      <link>https://github.com/nuxt-community/markdownit-module</link>
+      <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Sat, 30 Jan 2021 01:55:44 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 14:04:42 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/markdownit-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            device-module
+            html-validator-module
 ]]></title>
-      <link>https://github.com/nuxt-community/device-module</link>
+      <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Sat, 30 Jan 2021 01:40:53 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 13:59:43 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            dayjs-module
+            express-template
 ]]></title>
-      <link>https://github.com/nuxt-community/dayjs-module</link>
+      <link>https://github.com/nuxt-community/express-template</link>
       
-        <pubDate>Sat, 30 Jan 2021 01:31:42 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 12:59:20 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/express-template</guid>
       
     </item>
     
@@ -113,7 +113,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Sat, 30 Jan 2021 01:01:05 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 11:45:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -123,29 +123,29 @@
     
     <item>
       <title><![CDATA[
-            i18n-module
+            applicationinsights-module
 ]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
+      <link>https://github.com/nuxt-community/applicationinsights-module</link>
       
-        <pubDate>Fri, 29 Jan 2021 21:03:39 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 08:55:24 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/applicationinsights-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            firebase-module
+            color-mode-module
 ]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
+      <link>https://github.com/nuxt-community/color-mode-module</link>
       
-        <pubDate>Fri, 29 Jan 2021 20:36:16 -0000</pubDate>
+        <pubDate>Sun, 31 Jan 2021 08:33:49 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
       
     </item>
     
