@@ -7,105 +7,7 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 00:58:26 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[
-            mdx-module
-]]></title>
-      <link>https://github.com/nuxt-community/mdx-module</link>
-      
-        <pubDate>Sun, 31 Jan 2021 21:57:00 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/mdx-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            style-resources-module
-]]></title>
-      <link>https://github.com/nuxt-community/style-resources-module</link>
-      
-        <pubDate>Sun, 31 Jan 2021 19:56:27 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/style-resources-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            cloudinary-module
-]]></title>
-      <link>https://github.com/nuxt-community/cloudinary-module</link>
-      
-        <pubDate>Sun, 31 Jan 2021 16:13:14 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            web-vitals-module
-]]></title>
-      <link>https://github.com/nuxt-community/web-vitals-module</link>
-      
-        <pubDate>Sun, 31 Jan 2021 14:59:29 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/web-vitals-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            composition-api
-]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
-      
-        <pubDate>Sun, 31 Jan 2021 14:04:42 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            html-validator-module
-]]></title>
-      <link>https://github.com/nuxt-community/html-validator-module</link>
-      
-        <pubDate>Sun, 31 Jan 2021 13:59:43 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            express-template
-]]></title>
-      <link>https://github.com/nuxt-community/express-template</link>
-      
-        <pubDate>Sun, 31 Jan 2021 12:59:20 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/express-template</guid>
-      
-    </item>
+    <lastBuildDate>Tue, 02 Feb 2021 00:52:57 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
@@ -113,7 +15,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Sun, 31 Jan 2021 11:45:39 -0000</pubDate>
+        <pubDate>Mon, 01 Feb 2021 23:42:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -123,29 +25,127 @@
     
     <item>
       <title><![CDATA[
-            applicationinsights-module
+            composition-api
 ]]></title>
-      <link>https://github.com/nuxt-community/applicationinsights-module</link>
+      <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Sun, 31 Jan 2021 08:55:24 -0000</pubDate>
+        <pubDate>Mon, 01 Feb 2021 23:32:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/applicationinsights-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            color-mode-module
+            snipcart-module
 ]]></title>
-      <link>https://github.com/nuxt-community/color-mode-module</link>
+      <link>https://github.com/nuxt-community/snipcart-module</link>
       
-        <pubDate>Sun, 31 Jan 2021 08:33:49 -0000</pubDate>
+        <pubDate>Mon, 01 Feb 2021 21:55:25 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            sentry-module
+]]></title>
+      <link>https://github.com/nuxt-community/sentry-module</link>
+      
+        <pubDate>Mon, 01 Feb 2021 19:13:08 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            recaptcha-module
+]]></title>
+      <link>https://github.com/nuxt-community/recaptcha-module</link>
+      
+        <pubDate>Mon, 01 Feb 2021 18:34:48 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/recaptcha-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            storybook
+]]></title>
+      <link>https://github.com/nuxt-community/storybook</link>
+      
+        <pubDate>Mon, 01 Feb 2021 17:56:51 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            moment-module
+]]></title>
+      <link>https://github.com/nuxt-community/moment-module</link>
+      
+        <pubDate>Mon, 01 Feb 2021 16:56:22 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/moment-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            html-minifier-module
+]]></title>
+      <link>https://github.com/nuxt-community/html-minifier-module</link>
+      
+        <pubDate>Mon, 01 Feb 2021 16:24:33 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/html-minifier-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            nuxtent-module
+]]></title>
+      <link>https://github.com/nuxt-community/nuxtent-module</link>
+      
+        <pubDate>Mon, 01 Feb 2021 16:19:07 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxtent-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            netlify-files-module
+]]></title>
+      <link>https://github.com/nuxt-community/netlify-files-module</link>
+      
+        <pubDate>Mon, 01 Feb 2021 16:06:43 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/netlify-files-module</guid>
       
     </item>
     
