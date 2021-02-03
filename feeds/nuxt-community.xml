@@ -7,61 +7,75 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 02 Feb 2021 00:52:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 00:48:23 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            sanity-module
+            strapi-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
+      <link>https://github.com/nuxt-community/strapi-module</link>
       
-        <pubDate>Mon, 01 Feb 2021 23:42:39 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 23:23:55 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            composition-api
+            i18n-module
 ]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
+      <link>https://github.com/nuxt-community/i18n-module</link>
       
-        <pubDate>Mon, 01 Feb 2021 23:32:39 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 22:36:19 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            snipcart-module
+            redirect-module
 ]]></title>
-      <link>https://github.com/nuxt-community/snipcart-module</link>
+      <link>https://github.com/nuxt-community/redirect-module</link>
       
-        <pubDate>Mon, 01 Feb 2021 21:55:25 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 21:00:43 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/redirect-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            sentry-module
+            express-template
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/express-template</link>
       
-        <pubDate>Mon, 01 Feb 2021 19:13:08 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 16:19:20 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/express-template</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            router-module
+]]></title>
+      <link>https://github.com/nuxt-community/router-module</link>
+      
+        <pubDate>Tue, 02 Feb 2021 15:52:35 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/router-module</guid>
       
     </item>
     
@@ -71,7 +85,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/recaptcha-module</link>
       
-        <pubDate>Mon, 01 Feb 2021 18:34:48 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 15:35:30 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -81,71 +95,57 @@
     
     <item>
       <title><![CDATA[
-            storybook
+            google-analytics-module
 ]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
+      <link>https://github.com/nuxt-community/google-analytics-module</link>
       
-        <pubDate>Mon, 01 Feb 2021 17:56:51 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 12:58:21 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/google-analytics-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            moment-module
+            html-validator-module
 ]]></title>
-      <link>https://github.com/nuxt-community/moment-module</link>
+      <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Mon, 01 Feb 2021 16:56:22 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 12:45:34 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/moment-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            html-minifier-module
+            firebase-module
 ]]></title>
-      <link>https://github.com/nuxt-community/html-minifier-module</link>
+      <link>https://github.com/nuxt-community/firebase-module</link>
       
-        <pubDate>Mon, 01 Feb 2021 16:24:33 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 12:32:27 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/html-minifier-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            nuxtent-module
+            cloudinary-module
 ]]></title>
-      <link>https://github.com/nuxt-community/nuxtent-module</link>
+      <link>https://github.com/nuxt-community/cloudinary-module</link>
       
-        <pubDate>Mon, 01 Feb 2021 16:19:07 -0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 12:32:16 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/nuxtent-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            netlify-files-module
-]]></title>
-      <link>https://github.com/nuxt-community/netlify-files-module</link>
-      
-        <pubDate>Mon, 01 Feb 2021 16:06:43 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/netlify-files-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
       
     </item>
     
