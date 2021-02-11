@@ -7,21 +7,7 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 10 Feb 2021 00:44:56 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[
-            cloudinary-module
-]]></title>
-      <link>https://github.com/nuxt-community/cloudinary-module</link>
-      
-        <pubDate>Wed, 10 Feb 2021 00:28:38 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
-      
-    </item>
+    <lastBuildDate>Thu, 11 Feb 2021 00:45:40 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
@@ -29,7 +15,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Tue, 09 Feb 2021 23:28:52 -0000</pubDate>
+        <pubDate>Thu, 11 Feb 2021 00:36:18 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -39,85 +25,15 @@
     
     <item>
       <title><![CDATA[
-            sentry-module
+            firebase-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/firebase-module</link>
       
-        <pubDate>Tue, 09 Feb 2021 20:46:30 -0000</pubDate>
+        <pubDate>Thu, 11 Feb 2021 00:22:04 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            storybook
-]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
-      
-        <pubDate>Tue, 09 Feb 2021 20:31:12 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            i18n-module
-]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
-      
-        <pubDate>Tue, 09 Feb 2021 20:29:48 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            strapi-module
-]]></title>
-      <link>https://github.com/nuxt-community/strapi-module</link>
-      
-        <pubDate>Tue, 09 Feb 2021 19:39:47 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            pwa-module
-]]></title>
-      <link>https://github.com/nuxt-community/pwa-module</link>
-      
-        <pubDate>Tue, 09 Feb 2021 19:24:54 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/pwa-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            dotenv-module
-]]></title>
-      <link>https://github.com/nuxt-community/dotenv-module</link>
-      
-        <pubDate>Tue, 09 Feb 2021 15:53:38 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/dotenv-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
       
     </item>
     
@@ -127,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/motd</link>
       
-        <pubDate>Tue, 09 Feb 2021 15:52:34 -0000</pubDate>
+        <pubDate>Thu, 11 Feb 2021 00:00:16 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -137,15 +53,99 @@
     
     <item>
       <title><![CDATA[
-            sitemap-module
+            html-minifier-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sitemap-module</link>
+      <link>https://github.com/nuxt-community/html-minifier-module</link>
       
-        <pubDate>Tue, 09 Feb 2021 14:49:54 -0000</pubDate>
+        <pubDate>Wed, 10 Feb 2021 23:53:22 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sitemap-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/html-minifier-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            feed-module
+]]></title>
+      <link>https://github.com/nuxt-community/feed-module</link>
+      
+        <pubDate>Wed, 10 Feb 2021 22:58:41 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/feed-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            storybook
+]]></title>
+      <link>https://github.com/nuxt-community/storybook</link>
+      
+        <pubDate>Wed, 10 Feb 2021 21:43:51 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            strapi-module
+]]></title>
+      <link>https://github.com/nuxt-community/strapi-module</link>
+      
+        <pubDate>Wed, 10 Feb 2021 21:42:13 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            cloudinary-module
+]]></title>
+      <link>https://github.com/nuxt-community/cloudinary-module</link>
+      
+        <pubDate>Wed, 10 Feb 2021 21:41:16 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            pwa-module
+]]></title>
+      <link>https://github.com/nuxt-community/pwa-module</link>
+      
+        <pubDate>Wed, 10 Feb 2021 21:38:19 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/pwa-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            i18n-module
+]]></title>
+      <link>https://github.com/nuxt-community/i18n-module</link>
+      
+        <pubDate>Wed, 10 Feb 2021 21:25:41 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
       
     </item>
     
