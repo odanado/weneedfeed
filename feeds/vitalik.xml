@@ -7,7 +7,19 @@
     <link>https://vitalik.ca/</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/vitalik.xml" rel="self"/>
     <description><![CDATA[Vitalik Buterin's website]]></description>
-    <lastBuildDate>Thu, 18 Feb 2021 00:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Feb 2021 00:47:21 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Prediction Markets: Tales from the Election]]></title>
+      <link>https://vitalik.ca/general/2021/02/18/election.html</link>
+      
+        <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2021/02/18/election.html</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[An approximate introduction to how zk-SNARKs are possible]]></title>
@@ -82,30 +94,6 @@
     </item>
     
     <item>
-      <title><![CDATA[為什麼權益證明棒棒的（2020 年十一月）]]></title>
-      <link>https://vitalik.ca/general/2020/11/06/pos2020_zhTW.html</link>
-      
-        <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://vitalik.ca/general/2020/11/06/pos2020_zhTW.html</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[ 7ème tour des subventions Gitcoin - Rétrospective ]]></title>
-      <link>https://vitalik.ca/general/2020/10/18/round7_FR.html</link>
-      
-        <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://vitalik.ca/general/2020/10/18/round7_FR.html</guid>
-      
-    </item>
-    
-    <item>
       <title><![CDATA[Gitcoin Grants Round 7 Retrospective]]></title>
       <link>https://vitalik.ca/general/2020/10/18/round7.html</link>
       
@@ -126,6 +114,18 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://vitalik.ca/general/2020/09/11/coordination.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Trust Models]]></title>
+      <link>https://vitalik.ca/general/2020/08/20/trust.html</link>
+      
+        <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2020/08/20/trust.html</guid>
       
     </item>
     
