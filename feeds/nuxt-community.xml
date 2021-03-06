@@ -7,89 +7,19 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 05 Mar 2021 00:49:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 00:48:56 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            i18n-module
+            dayjs-module
 ]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
+      <link>https://github.com/nuxt-community/dayjs-module</link>
       
-        <pubDate>Fri, 05 Mar 2021 00:26:47 -0000</pubDate>
+        <pubDate>Sat, 06 Mar 2021 00:45:21 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            strapi-module
-]]></title>
-      <link>https://github.com/nuxt-community/strapi-module</link>
-      
-        <pubDate>Fri, 05 Mar 2021 00:18:30 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            pwa-module
-]]></title>
-      <link>https://github.com/nuxt-community/pwa-module</link>
-      
-        <pubDate>Fri, 05 Mar 2021 00:15:02 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/pwa-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            sentry-module
-]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
-      
-        <pubDate>Fri, 05 Mar 2021 00:07:42 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            firebase-module
-]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
-      
-        <pubDate>Fri, 05 Mar 2021 00:00:34 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            composition-api
-]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
-      
-        <pubDate>Thu, 04 Mar 2021 23:30:28 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
       
     </item>
     
@@ -99,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Thu, 04 Mar 2021 23:25:59 -0000</pubDate>
+        <pubDate>Fri, 05 Mar 2021 21:47:27 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -109,43 +39,113 @@
     
     <item>
       <title><![CDATA[
-            netlify-files-module
+            sanity-module
 ]]></title>
-      <link>https://github.com/nuxt-community/netlify-files-module</link>
+      <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Thu, 04 Mar 2021 21:34:38 -0000</pubDate>
+        <pubDate>Fri, 05 Mar 2021 21:32:34 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/netlify-files-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            google-fonts-module
+            i18n-module
 ]]></title>
-      <link>https://github.com/nuxt-community/google-fonts-module</link>
+      <link>https://github.com/nuxt-community/i18n-module</link>
       
-        <pubDate>Thu, 04 Mar 2021 17:53:51 -0000</pubDate>
+        <pubDate>Fri, 05 Mar 2021 21:11:37 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/google-fonts-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            router-module
+            tailwindcss-module
 ]]></title>
-      <link>https://github.com/nuxt-community/router-module</link>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Thu, 04 Mar 2021 17:14:57 -0000</pubDate>
+        <pubDate>Fri, 05 Mar 2021 19:42:17 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/router-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            auth-module
+]]></title>
+      <link>https://github.com/nuxt-community/auth-module</link>
+      
+        <pubDate>Fri, 05 Mar 2021 16:21:14 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            typescript-template
+]]></title>
+      <link>https://github.com/nuxt-community/typescript-template</link>
+      
+        <pubDate>Fri, 05 Mar 2021 15:22:43 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/typescript-template</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            composition-api
+]]></title>
+      <link>https://github.com/nuxt-community/composition-api</link>
+      
+        <pubDate>Fri, 05 Mar 2021 14:38:39 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            nuxt7
+]]></title>
+      <link>https://github.com/nuxt-community/nuxt7</link>
+      
+        <pubDate>Fri, 05 Mar 2021 14:23:09 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt7</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            pwa-module
+]]></title>
+      <link>https://github.com/nuxt-community/pwa-module</link>
+      
+        <pubDate>Fri, 05 Mar 2021 14:06:14 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/pwa-module</guid>
       
     </item>
     
