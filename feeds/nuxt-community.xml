@@ -7,117 +7,33 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 09 Mar 2021 00:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 00:49:33 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            sentry-module
+            tailwindcss-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Tue, 09 Mar 2021 00:46:59 -0000</pubDate>
+        <pubDate>Tue, 09 Mar 2021 23:33:09 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            html-validator-module
+            cloudinary-module
 ]]></title>
-      <link>https://github.com/nuxt-community/html-validator-module</link>
+      <link>https://github.com/nuxt-community/cloudinary-module</link>
       
-        <pubDate>Tue, 09 Mar 2021 00:23:07 -0000</pubDate>
+        <pubDate>Tue, 09 Mar 2021 20:17:16 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            svg-sprite-module
-]]></title>
-      <link>https://github.com/nuxt-community/svg-sprite-module</link>
-      
-        <pubDate>Tue, 09 Mar 2021 00:09:00 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            i18n-module
-]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
-      
-        <pubDate>Tue, 09 Mar 2021 00:07:17 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            markdownit-module
-]]></title>
-      <link>https://github.com/nuxt-community/markdownit-module</link>
-      
-        <pubDate>Mon, 08 Mar 2021 23:42:56 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/markdownit-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            sanity-module
-]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
-      
-        <pubDate>Mon, 08 Mar 2021 23:35:11 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            motd
-]]></title>
-      <link>https://github.com/nuxt-community/motd</link>
-      
-        <pubDate>Mon, 08 Mar 2021 23:31:43 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/motd</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            amp-module
-]]></title>
-      <link>https://github.com/nuxt-community/amp-module</link>
-      
-        <pubDate>Mon, 08 Mar 2021 23:25:27 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/amp-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
       
     </item>
     
@@ -127,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/strapi-module</link>
       
-        <pubDate>Mon, 08 Mar 2021 23:02:35 -0000</pubDate>
+        <pubDate>Tue, 09 Mar 2021 19:29:07 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -137,15 +53,99 @@
     
     <item>
       <title><![CDATA[
-            firebase-module
+            i18n-module
 ]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
+      <link>https://github.com/nuxt-community/i18n-module</link>
       
-        <pubDate>Mon, 08 Mar 2021 22:40:03 -0000</pubDate>
+        <pubDate>Tue, 09 Mar 2021 19:18:53 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            vuetify-module
+]]></title>
+      <link>https://github.com/nuxt-community/vuetify-module</link>
+      
+        <pubDate>Tue, 09 Mar 2021 19:01:51 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/vuetify-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            dayjs-module
+]]></title>
+      <link>https://github.com/nuxt-community/dayjs-module</link>
+      
+        <pubDate>Tue, 09 Mar 2021 18:17:58 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            composition-api
+]]></title>
+      <link>https://github.com/nuxt-community/composition-api</link>
+      
+        <pubDate>Tue, 09 Mar 2021 18:07:40 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            sentry-module
+]]></title>
+      <link>https://github.com/nuxt-community/sentry-module</link>
+      
+        <pubDate>Tue, 09 Mar 2021 17:18:43 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            nuxt-logrocket
+]]></title>
+      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
+      
+        <pubDate>Tue, 09 Mar 2021 14:01:23 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            prismic-module
+]]></title>
+      <link>https://github.com/nuxt-community/prismic-module</link>
+      
+        <pubDate>Tue, 09 Mar 2021 13:18:07 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/prismic-module</guid>
       
     </item>
     
