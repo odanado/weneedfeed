@@ -7,105 +7,7 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Thu, 11 Mar 2021 00:49:46 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[
-            prismic-module
-]]></title>
-      <link>https://github.com/nuxt-community/prismic-module</link>
-      
-        <pubDate>Wed, 10 Mar 2021 20:48:00 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/prismic-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            firebase-module
-]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
-      
-        <pubDate>Wed, 10 Mar 2021 20:45:16 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            storybook
-]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
-      
-        <pubDate>Wed, 10 Mar 2021 20:38:21 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            strapi-module
-]]></title>
-      <link>https://github.com/nuxt-community/strapi-module</link>
-      
-        <pubDate>Wed, 10 Mar 2021 20:25:04 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            composition-api
-]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
-      
-        <pubDate>Wed, 10 Mar 2021 20:08:04 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            guess-module
-]]></title>
-      <link>https://github.com/nuxt-community/guess-module</link>
-      
-        <pubDate>Wed, 10 Mar 2021 19:55:28 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/guess-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            color-mode-module
-]]></title>
-      <link>https://github.com/nuxt-community/color-mode-module</link>
-      
-        <pubDate>Wed, 10 Mar 2021 19:41:23 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
-      
-    </item>
+    <lastBuildDate>Fri, 12 Mar 2021 00:50:14 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
@@ -113,7 +15,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Wed, 10 Mar 2021 19:22:37 -0000</pubDate>
+        <pubDate>Fri, 12 Mar 2021 00:22:46 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -127,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/auth-module</link>
       
-        <pubDate>Wed, 10 Mar 2021 18:18:21 -0000</pubDate>
+        <pubDate>Thu, 11 Mar 2021 22:09:14 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -137,15 +39,113 @@
     
     <item>
       <title><![CDATA[
-            html-validator-module
+            storybook
 ]]></title>
-      <link>https://github.com/nuxt-community/html-validator-module</link>
+      <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Wed, 10 Mar 2021 14:58:24 -0000</pubDate>
+        <pubDate>Thu, 11 Mar 2021 20:57:47 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            i18n-module
+]]></title>
+      <link>https://github.com/nuxt-community/i18n-module</link>
+      
+        <pubDate>Thu, 11 Mar 2021 20:25:00 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            cloudinary-module
+]]></title>
+      <link>https://github.com/nuxt-community/cloudinary-module</link>
+      
+        <pubDate>Thu, 11 Mar 2021 19:12:13 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            router-module
+]]></title>
+      <link>https://github.com/nuxt-community/router-module</link>
+      
+        <pubDate>Thu, 11 Mar 2021 15:57:55 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/router-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            typescript-template
+]]></title>
+      <link>https://github.com/nuxt-community/typescript-template</link>
+      
+        <pubDate>Thu, 11 Mar 2021 15:56:43 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/typescript-template</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            composition-api
+]]></title>
+      <link>https://github.com/nuxt-community/composition-api</link>
+      
+        <pubDate>Thu, 11 Mar 2021 14:56:45 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            color-mode-module
+]]></title>
+      <link>https://github.com/nuxt-community/color-mode-module</link>
+      
+        <pubDate>Thu, 11 Mar 2021 14:31:27 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            imagemin-module
+]]></title>
+      <link>https://github.com/nuxt-community/imagemin-module</link>
+      
+        <pubDate>Thu, 11 Mar 2021 13:20:55 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/imagemin-module</guid>
       
     </item>
     
