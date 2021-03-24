@@ -7,7 +7,19 @@
     <link>https://vitalik.ca/</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/vitalik.xml" rel="self"/>
     <description><![CDATA[Vitalik Buterin's website]]></description>
-    <lastBuildDate>Tue, 23 Mar 2021 00:51:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:51:53 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[The Most Important Scarce Resource is Legitimacy]]></title>
+      <link>https://vitalik.ca/general/2021/03/23/legitimacy.html</link>
+      
+        <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2021/03/23/legitimacy.html</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[Prediction Markets: Tales from the Election]]></title>
@@ -114,18 +126,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://vitalik.ca/general/2020/09/11/coordination.html</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Trust Models]]></title>
-      <link>https://vitalik.ca/general/2020/08/20/trust.html</link>
-      
-        <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://vitalik.ca/general/2020/08/20/trust.html</guid>
       
     </item>
     
