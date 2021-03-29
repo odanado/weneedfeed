@@ -7,63 +7,7 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 28 Mar 2021 00:19:17 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[
-            sanity-module
-]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
-      
-        <pubDate>Sat, 27 Mar 2021 22:31:29 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            tailwindcss-module
-]]></title>
-      <link>https://github.com/nuxt-community/tailwindcss-module</link>
-      
-        <pubDate>Sat, 27 Mar 2021 18:23:53 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            composition-api
-]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
-      
-        <pubDate>Sat, 27 Mar 2021 16:22:21 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            dayjs-module
-]]></title>
-      <link>https://github.com/nuxt-community/dayjs-module</link>
-      
-        <pubDate>Sat, 27 Mar 2021 14:24:34 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
-      
-    </item>
+    <lastBuildDate>Mon, 29 Mar 2021 00:19:17 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
@@ -71,7 +15,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/i18n-module</link>
       
-        <pubDate>Sat, 27 Mar 2021 14:08:23 -0000</pubDate>
+        <pubDate>Sun, 28 Mar 2021 22:09:11 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -81,43 +25,57 @@
     
     <item>
       <title><![CDATA[
-            typescript-template
+            nuxt-logrocket
 ]]></title>
-      <link>https://github.com/nuxt-community/typescript-template</link>
+      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
       
-        <pubDate>Sat, 27 Mar 2021 06:44:20 -0000</pubDate>
+        <pubDate>Sun, 28 Mar 2021 21:00:58 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/typescript-template</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            color-mode-module
+            device-module
 ]]></title>
-      <link>https://github.com/nuxt-community/color-mode-module</link>
+      <link>https://github.com/nuxt-community/device-module</link>
       
-        <pubDate>Sat, 27 Mar 2021 06:24:07 -0000</pubDate>
+        <pubDate>Sun, 28 Mar 2021 20:44:13 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            svg-sprite-module
+            google-adsense-module
 ]]></title>
-      <link>https://github.com/nuxt-community/svg-sprite-module</link>
+      <link>https://github.com/nuxt-community/google-adsense-module</link>
       
-        <pubDate>Sat, 27 Mar 2021 02:31:20 -0000</pubDate>
+        <pubDate>Sun, 28 Mar 2021 19:35:02 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/google-adsense-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            tailwindcss-module
+]]></title>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
+      
+        <pubDate>Sun, 28 Mar 2021 18:32:19 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
       
     </item>
     
@@ -127,7 +85,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Sat, 27 Mar 2021 01:46:30 -0000</pubDate>
+        <pubDate>Sun, 28 Mar 2021 11:58:17 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -137,15 +95,57 @@
     
     <item>
       <title><![CDATA[
-            sentry-module
+            color-mode-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/color-mode-module</link>
       
-        <pubDate>Sat, 27 Mar 2021 00:47:41 -0000</pubDate>
+        <pubDate>Sun, 28 Mar 2021 11:56:25 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            dayjs-module
+]]></title>
+      <link>https://github.com/nuxt-community/dayjs-module</link>
+      
+        <pubDate>Sun, 28 Mar 2021 11:52:00 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            strapi-module
+]]></title>
+      <link>https://github.com/nuxt-community/strapi-module</link>
+      
+        <pubDate>Sun, 28 Mar 2021 11:31:29 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            motd
+]]></title>
+      <link>https://github.com/nuxt-community/motd</link>
+      
+        <pubDate>Sun, 28 Mar 2021 11:14:33 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/motd</guid>
       
     </item>
     
