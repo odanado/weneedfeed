@@ -7,7 +7,21 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 30 Mar 2021 00:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:15:06 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+            tailwindcss-module
+]]></title>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
+      
+        <pubDate>Tue, 30 Mar 2021 21:30:32 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -15,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/i18n-module</link>
       
-        <pubDate>Mon, 29 Mar 2021 22:59:45 -0000</pubDate>
+        <pubDate>Tue, 30 Mar 2021 20:56:15 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -25,85 +39,15 @@
     
     <item>
       <title><![CDATA[
-            firebase-module
+            html-validator-module
 ]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
+      <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Mon, 29 Mar 2021 22:29:54 -0000</pubDate>
+        <pubDate>Tue, 30 Mar 2021 18:53:15 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            universal-storage-module
-]]></title>
-      <link>https://github.com/nuxt-community/universal-storage-module</link>
-      
-        <pubDate>Mon, 29 Mar 2021 22:29:39 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/universal-storage-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            laravel-echo
-]]></title>
-      <link>https://github.com/nuxt-community/laravel-echo</link>
-      
-        <pubDate>Mon, 29 Mar 2021 22:08:56 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/laravel-echo</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            strapi-module
-]]></title>
-      <link>https://github.com/nuxt-community/strapi-module</link>
-      
-        <pubDate>Mon, 29 Mar 2021 20:51:31 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            sanity-module
-]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
-      
-        <pubDate>Mon, 29 Mar 2021 20:50:56 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            motd
-]]></title>
-      <link>https://github.com/nuxt-community/motd</link>
-      
-        <pubDate>Mon, 29 Mar 2021 18:38:28 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/motd</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
       
     </item>
     
@@ -113,7 +57,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Mon, 29 Mar 2021 18:35:55 -0000</pubDate>
+        <pubDate>Tue, 30 Mar 2021 17:47:01 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -123,29 +67,85 @@
     
     <item>
       <title><![CDATA[
-            cloudinary-module
+            storybook
 ]]></title>
-      <link>https://github.com/nuxt-community/cloudinary-module</link>
+      <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Mon, 29 Mar 2021 18:21:44 -0000</pubDate>
+        <pubDate>Tue, 30 Mar 2021 17:26:35 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            router-extras-module
+            sanity-module
 ]]></title>
-      <link>https://github.com/nuxt-community/router-extras-module</link>
+      <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Mon, 29 Mar 2021 17:14:29 -0000</pubDate>
+        <pubDate>Tue, 30 Mar 2021 15:23:52 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/router-extras-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            sentry-module
+]]></title>
+      <link>https://github.com/nuxt-community/sentry-module</link>
+      
+        <pubDate>Tue, 30 Mar 2021 13:34:34 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            strapi-module
+]]></title>
+      <link>https://github.com/nuxt-community/strapi-module</link>
+      
+        <pubDate>Tue, 30 Mar 2021 13:12:49 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            laravel-echo-module
+]]></title>
+      <link>https://github.com/nuxt-community/laravel-echo-module</link>
+      
+        <pubDate>Tue, 30 Mar 2021 11:32:33 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/laravel-echo-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            amp-module
+]]></title>
+      <link>https://github.com/nuxt-community/amp-module</link>
+      
+        <pubDate>Tue, 30 Mar 2021 10:31:40 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/amp-module</guid>
       
     </item>
     
