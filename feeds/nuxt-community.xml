@@ -7,33 +7,33 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 31 Mar 2021 00:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:19:18 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            tailwindcss-module
+            sentry-module
 ]]></title>
-      <link>https://github.com/nuxt-community/tailwindcss-module</link>
+      <link>https://github.com/nuxt-community/sentry-module</link>
       
-        <pubDate>Tue, 30 Mar 2021 21:30:32 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 23:21:11 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            i18n-module
+            sanity-module
 ]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
+      <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Tue, 30 Mar 2021 20:56:15 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 22:02:13 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
       
     </item>
     
@@ -43,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Tue, 30 Mar 2021 18:53:15 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 21:52:08 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -57,7 +57,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Tue, 30 Mar 2021 17:47:01 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 19:24:27 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -67,57 +67,43 @@
     
     <item>
       <title><![CDATA[
-            storybook
+            i18n-module
 ]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
+      <link>https://github.com/nuxt-community/i18n-module</link>
       
-        <pubDate>Tue, 30 Mar 2021 17:26:35 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 18:37:21 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            sanity-module
+            google-analytics-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
+      <link>https://github.com/nuxt-community/google-analytics-module</link>
       
-        <pubDate>Tue, 30 Mar 2021 15:23:52 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 17:06:59 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/google-analytics-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            sentry-module
+            auth-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/auth-module</link>
       
-        <pubDate>Tue, 30 Mar 2021 13:34:34 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 16:36:08 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            strapi-module
-]]></title>
-      <link>https://github.com/nuxt-community/strapi-module</link>
-      
-        <pubDate>Tue, 30 Mar 2021 13:12:49 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
       
     </item>
     
@@ -127,7 +113,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/laravel-echo-module</link>
       
-        <pubDate>Tue, 30 Mar 2021 11:32:33 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 15:59:25 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -137,15 +123,29 @@
     
     <item>
       <title><![CDATA[
-            amp-module
+            tailwindcss-module
 ]]></title>
-      <link>https://github.com/nuxt-community/amp-module</link>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Tue, 30 Mar 2021 10:31:40 -0000</pubDate>
+        <pubDate>Wed, 31 Mar 2021 15:31:50 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/amp-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            device-module
+]]></title>
+      <link>https://github.com/nuxt-community/device-module</link>
+      
+        <pubDate>Wed, 31 Mar 2021 15:26:08 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
       
     </item>
     
