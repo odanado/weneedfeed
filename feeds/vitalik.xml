@@ -7,7 +7,19 @@
     <link>https://vitalik.ca/</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/vitalik.xml" rel="self"/>
     <description><![CDATA[Vitalik Buterin's website]]></description>
-    <lastBuildDate>Fri, 02 Apr 2021 00:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Apr 2021 00:18:24 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Gitcoin Grants Round 9: The Next Phase of Growth]]></title>
+      <link>https://vitalik.ca/general/2021/04/02/round9.html</link>
+      
+        <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://vitalik.ca/general/2021/04/02/round9.html</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[The Most Important Scarce Resource is Legitimacy]]></title>
@@ -114,18 +126,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://vitalik.ca/general/2020/10/18/round7.html</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Coordination, Good and Bad]]></title>
-      <link>https://vitalik.ca/general/2020/09/11/coordination.html</link>
-      
-        <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://vitalik.ca/general/2020/09/11/coordination.html</guid>
       
     </item>
     
