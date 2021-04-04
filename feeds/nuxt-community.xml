@@ -7,7 +7,7 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sat, 03 Apr 2021 00:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Apr 2021 00:24:34 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
@@ -15,11 +15,95 @@
 ]]></title>
       <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Fri, 02 Apr 2021 20:56:47 -0000</pubDate>
+        <pubDate>Sun, 04 Apr 2021 00:23:36 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            html-validator-module
+]]></title>
+      <link>https://github.com/nuxt-community/html-validator-module</link>
+      
+        <pubDate>Sat, 03 Apr 2021 13:23:39 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            sanity-module
+]]></title>
+      <link>https://github.com/nuxt-community/sanity-module</link>
+      
+        <pubDate>Sat, 03 Apr 2021 13:13:27 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            svg-sprite-module
+]]></title>
+      <link>https://github.com/nuxt-community/svg-sprite-module</link>
+      
+        <pubDate>Sat, 03 Apr 2021 11:28:20 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            nuxt-logrocket
+]]></title>
+      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
+      
+        <pubDate>Sat, 03 Apr 2021 06:03:48 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            storybook
+]]></title>
+      <link>https://github.com/nuxt-community/storybook</link>
+      
+        <pubDate>Sat, 03 Apr 2021 01:53:24 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            dayjs-module
+]]></title>
+      <link>https://github.com/nuxt-community/dayjs-module</link>
+      
+        <pubDate>Sat, 03 Apr 2021 00:20:40 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
       
     </item>
     
@@ -53,34 +137,6 @@
     
     <item>
       <title><![CDATA[
-            nuxt-logrocket
-]]></title>
-      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
-      
-        <pubDate>Fri, 02 Apr 2021 20:22:39 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            sanity-module
-]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
-      
-        <pubDate>Fri, 02 Apr 2021 19:53:27 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
             i18n-module
 ]]></title>
       <link>https://github.com/nuxt-community/i18n-module</link>
@@ -90,62 +146,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            laravel-echo-module
-]]></title>
-      <link>https://github.com/nuxt-community/laravel-echo-module</link>
-      
-        <pubDate>Fri, 02 Apr 2021 15:21:34 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/laravel-echo-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            ackee-module
-]]></title>
-      <link>https://github.com/nuxt-community/ackee-module</link>
-      
-        <pubDate>Fri, 02 Apr 2021 14:31:38 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/ackee-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            firebase-module
-]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
-      
-        <pubDate>Fri, 02 Apr 2021 12:49:18 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            storybook
-]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
-      
-        <pubDate>Fri, 02 Apr 2021 11:32:50 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
       
     </item>
     
