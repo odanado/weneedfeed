@@ -7,103 +7,19 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 11 Apr 2021 00:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 00:20:31 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            amp-module
+            device-module
 ]]></title>
-      <link>https://github.com/nuxt-community/amp-module</link>
+      <link>https://github.com/nuxt-community/device-module</link>
       
-        <pubDate>Sat, 10 Apr 2021 23:43:15 -0000</pubDate>
+        <pubDate>Sun, 11 Apr 2021 21:05:16 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/amp-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            nuxt-logrocket
-]]></title>
-      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
-      
-        <pubDate>Sat, 10 Apr 2021 23:17:35 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            google-adsense-module
-]]></title>
-      <link>https://github.com/nuxt-community/google-adsense-module</link>
-      
-        <pubDate>Sat, 10 Apr 2021 23:14:43 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/google-adsense-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            html-validator-module
-]]></title>
-      <link>https://github.com/nuxt-community/html-validator-module</link>
-      
-        <pubDate>Sat, 10 Apr 2021 23:11:11 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            sanity-module
-]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
-      
-        <pubDate>Sat, 10 Apr 2021 23:04:31 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            universal-storage-module
-]]></title>
-      <link>https://github.com/nuxt-community/universal-storage-module</link>
-      
-        <pubDate>Sat, 10 Apr 2021 15:25:05 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/universal-storage-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            color-mode-module
-]]></title>
-      <link>https://github.com/nuxt-community/color-mode-module</link>
-      
-        <pubDate>Sat, 10 Apr 2021 08:15:16 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
       
     </item>
     
@@ -113,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Sat, 10 Apr 2021 06:39:28 -0000</pubDate>
+        <pubDate>Sun, 11 Apr 2021 20:52:56 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -123,11 +39,53 @@
     
     <item>
       <title><![CDATA[
+            google-adsense-module
+]]></title>
+      <link>https://github.com/nuxt-community/google-adsense-module</link>
+      
+        <pubDate>Sun, 11 Apr 2021 20:42:40 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/google-adsense-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            nuxt-logrocket
+]]></title>
+      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
+      
+        <pubDate>Sun, 11 Apr 2021 20:19:47 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            sanity-module
+]]></title>
+      <link>https://github.com/nuxt-community/sanity-module</link>
+      
+        <pubDate>Sun, 11 Apr 2021 17:17:20 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
             storybook
 ]]></title>
       <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Sat, 10 Apr 2021 02:13:22 -0000</pubDate>
+        <pubDate>Sun, 11 Apr 2021 16:47:33 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -137,15 +95,57 @@
     
     <item>
       <title><![CDATA[
-            svg-sprite-module
+            tailwindcss-module
 ]]></title>
-      <link>https://github.com/nuxt-community/svg-sprite-module</link>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Sat, 10 Apr 2021 01:33:50 -0000</pubDate>
+        <pubDate>Sun, 11 Apr 2021 16:46:18 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            i18n-module
+]]></title>
+      <link>https://github.com/nuxt-community/i18n-module</link>
+      
+        <pubDate>Sun, 11 Apr 2021 16:41:02 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            html-validator-module
+]]></title>
+      <link>https://github.com/nuxt-community/html-validator-module</link>
+      
+        <pubDate>Sun, 11 Apr 2021 13:33:21 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            universal-storage-module
+]]></title>
+      <link>https://github.com/nuxt-community/universal-storage-module</link>
+      
+        <pubDate>Sun, 11 Apr 2021 09:14:03 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/universal-storage-module</guid>
       
     </item>
     
