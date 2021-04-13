@@ -7,61 +7,33 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 12 Apr 2021 00:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 00:20:36 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            device-module
+            snipcart-module
 ]]></title>
-      <link>https://github.com/nuxt-community/device-module</link>
+      <link>https://github.com/nuxt-community/snipcart-module</link>
       
-        <pubDate>Sun, 11 Apr 2021 21:05:16 -0000</pubDate>
+        <pubDate>Mon, 12 Apr 2021 23:52:16 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            composition-api
+            firebase-module
 ]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
+      <link>https://github.com/nuxt-community/firebase-module</link>
       
-        <pubDate>Sun, 11 Apr 2021 20:52:56 -0000</pubDate>
+        <pubDate>Mon, 12 Apr 2021 22:35:56 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            google-adsense-module
-]]></title>
-      <link>https://github.com/nuxt-community/google-adsense-module</link>
-      
-        <pubDate>Sun, 11 Apr 2021 20:42:40 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/google-adsense-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            nuxt-logrocket
-]]></title>
-      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
-      
-        <pubDate>Sun, 11 Apr 2021 20:19:47 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
       
     </item>
     
@@ -71,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Sun, 11 Apr 2021 17:17:20 -0000</pubDate>
+        <pubDate>Mon, 12 Apr 2021 21:37:53 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -81,43 +53,15 @@
     
     <item>
       <title><![CDATA[
-            storybook
+            composition-api
 ]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
+      <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Sun, 11 Apr 2021 16:47:33 -0000</pubDate>
+        <pubDate>Mon, 12 Apr 2021 18:27:03 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            tailwindcss-module
-]]></title>
-      <link>https://github.com/nuxt-community/tailwindcss-module</link>
-      
-        <pubDate>Sun, 11 Apr 2021 16:46:18 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            i18n-module
-]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
-      
-        <pubDate>Sun, 11 Apr 2021 16:41:02 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
       
     </item>
     
@@ -127,7 +71,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Sun, 11 Apr 2021 13:33:21 -0000</pubDate>
+        <pubDate>Mon, 12 Apr 2021 16:19:49 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -137,15 +81,71 @@
     
     <item>
       <title><![CDATA[
-            universal-storage-module
+            auth-module
 ]]></title>
-      <link>https://github.com/nuxt-community/universal-storage-module</link>
+      <link>https://github.com/nuxt-community/auth-module</link>
       
-        <pubDate>Sun, 11 Apr 2021 09:14:03 -0000</pubDate>
+        <pubDate>Mon, 12 Apr 2021 16:13:30 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/universal-storage-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            date-fns-module
+]]></title>
+      <link>https://github.com/nuxt-community/date-fns-module</link>
+      
+        <pubDate>Mon, 12 Apr 2021 14:34:43 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/date-fns-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            storybook
+]]></title>
+      <link>https://github.com/nuxt-community/storybook</link>
+      
+        <pubDate>Mon, 12 Apr 2021 14:28:11 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            i18n-module
+]]></title>
+      <link>https://github.com/nuxt-community/i18n-module</link>
+      
+        <pubDate>Mon, 12 Apr 2021 13:22:40 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            typescript-template
+]]></title>
+      <link>https://github.com/nuxt-community/typescript-template</link>
+      
+        <pubDate>Mon, 12 Apr 2021 13:13:19 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/typescript-template</guid>
       
     </item>
     
