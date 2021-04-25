@@ -7,19 +7,19 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sat, 24 Apr 2021 00:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 00:20:30 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            color-mode-module
+            recaptcha-module
 ]]></title>
-      <link>https://github.com/nuxt-community/color-mode-module</link>
+      <link>https://github.com/nuxt-community/recaptcha-module</link>
       
-        <pubDate>Sat, 24 Apr 2021 00:16:48 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 23:14:04 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/recaptcha-module</guid>
       
     </item>
     
@@ -29,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Fri, 23 Apr 2021 23:54:03 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 21:30:34 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -39,29 +39,15 @@
     
     <item>
       <title><![CDATA[
-            guess-module
+            typescript-template
 ]]></title>
-      <link>https://github.com/nuxt-community/guess-module</link>
+      <link>https://github.com/nuxt-community/typescript-template</link>
       
-        <pubDate>Fri, 23 Apr 2021 23:46:55 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 19:46:53 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/guess-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            sanity-module
-]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
-      
-        <pubDate>Fri, 23 Apr 2021 23:39:13 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/typescript-template</guid>
       
     </item>
     
@@ -71,7 +57,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Fri, 23 Apr 2021 23:18:47 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 18:29:47 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -85,7 +71,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/auth-module</link>
       
-        <pubDate>Fri, 23 Apr 2021 23:14:30 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 07:16:31 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -95,57 +81,71 @@
     
     <item>
       <title><![CDATA[
-            firebase-module
+            strapi-module
 ]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
+      <link>https://github.com/nuxt-community/strapi-module</link>
       
-        <pubDate>Fri, 23 Apr 2021 23:09:48 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 07:16:00 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            axios-module
+            nuxt-logrocket
 ]]></title>
-      <link>https://github.com/nuxt-community/axios-module</link>
+      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
       
-        <pubDate>Fri, 23 Apr 2021 21:12:41 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 05:34:08 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/axios-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            router-module
+            universal-storage-module
 ]]></title>
-      <link>https://github.com/nuxt-community/router-module</link>
+      <link>https://github.com/nuxt-community/universal-storage-module</link>
       
-        <pubDate>Fri, 23 Apr 2021 20:35:29 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 05:34:00 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/router-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/universal-storage-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            cloudinary-module
+            sanity-module
 ]]></title>
-      <link>https://github.com/nuxt-community/cloudinary-module</link>
+      <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Fri, 23 Apr 2021 20:30:31 -0000</pubDate>
+        <pubDate>Sat, 24 Apr 2021 03:09:33 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            device-module
+]]></title>
+      <link>https://github.com/nuxt-community/device-module</link>
+      
+        <pubDate>Sat, 24 Apr 2021 02:47:53 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
       
     </item>
     
