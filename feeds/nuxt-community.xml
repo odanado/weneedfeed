@@ -7,33 +7,33 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 26 Apr 2021 00:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Apr 2021 00:18:55 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            sanity-module
+            snipcart-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
+      <link>https://github.com/nuxt-community/snipcart-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 00:13:46 -0000</pubDate>
+        <pubDate>Mon, 26 Apr 2021 21:33:31 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            cloudinary-module
+            sentry-module
 ]]></title>
-      <link>https://github.com/nuxt-community/cloudinary-module</link>
+      <link>https://github.com/nuxt-community/sentry-module</link>
       
-        <pubDate>Sun, 25 Apr 2021 17:44:59 -0000</pubDate>
+        <pubDate>Mon, 26 Apr 2021 20:49:14 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
       
     </item>
     
@@ -43,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Sun, 25 Apr 2021 12:43:21 -0000</pubDate>
+        <pubDate>Mon, 26 Apr 2021 19:37:55 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -53,53 +53,11 @@
     
     <item>
       <title><![CDATA[
-            netlify-files-module
-]]></title>
-      <link>https://github.com/nuxt-community/netlify-files-module</link>
-      
-        <pubDate>Sun, 25 Apr 2021 04:47:10 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/netlify-files-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            typescript-template
-]]></title>
-      <link>https://github.com/nuxt-community/typescript-template</link>
-      
-        <pubDate>Sun, 25 Apr 2021 03:51:38 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/typescript-template</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            svg-sprite-module
-]]></title>
-      <link>https://github.com/nuxt-community/svg-sprite-module</link>
-      
-        <pubDate>Sun, 25 Apr 2021 03:31:19 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
             storybook
 ]]></title>
       <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Sun, 25 Apr 2021 00:45:34 -0000</pubDate>
+        <pubDate>Mon, 26 Apr 2021 18:42:36 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -109,43 +67,85 @@
     
     <item>
       <title><![CDATA[
-            recaptcha-module
+            sanity-module
 ]]></title>
-      <link>https://github.com/nuxt-community/recaptcha-module</link>
+      <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Sat, 24 Apr 2021 23:14:04 -0000</pubDate>
+        <pubDate>Mon, 26 Apr 2021 18:10:51 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/recaptcha-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            composition-api
+            tailwindcss-module
 ]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Sat, 24 Apr 2021 18:29:47 -0000</pubDate>
+        <pubDate>Mon, 26 Apr 2021 18:06:26 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            auth-module
+            speedcurve-module
 ]]></title>
-      <link>https://github.com/nuxt-community/auth-module</link>
+      <link>https://github.com/nuxt-community/speedcurve-module</link>
       
-        <pubDate>Sat, 24 Apr 2021 07:16:31 -0000</pubDate>
+        <pubDate>Mon, 26 Apr 2021 17:50:49 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/speedcurve-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            proxy-module
+]]></title>
+      <link>https://github.com/nuxt-community/proxy-module</link>
+      
+        <pubDate>Mon, 26 Apr 2021 17:50:29 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/proxy-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            applicationinsights-module
+]]></title>
+      <link>https://github.com/nuxt-community/applicationinsights-module</link>
+      
+        <pubDate>Mon, 26 Apr 2021 17:41:11 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/applicationinsights-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            style-resources-module
+]]></title>
+      <link>https://github.com/nuxt-community/style-resources-module</link>
+      
+        <pubDate>Mon, 26 Apr 2021 17:37:47 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/style-resources-module</guid>
       
     </item>
     
