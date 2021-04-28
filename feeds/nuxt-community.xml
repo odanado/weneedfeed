@@ -7,33 +7,33 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 27 Apr 2021 00:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 00:19:14 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            snipcart-module
+            auth-module
 ]]></title>
-      <link>https://github.com/nuxt-community/snipcart-module</link>
+      <link>https://github.com/nuxt-community/auth-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 21:33:31 -0000</pubDate>
+        <pubDate>Wed, 28 Apr 2021 00:04:02 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            sentry-module
+            firebase-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/firebase-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 20:49:14 -0000</pubDate>
+        <pubDate>Tue, 27 Apr 2021 21:41:22 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
       
     </item>
     
@@ -43,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 19:37:55 -0000</pubDate>
+        <pubDate>Tue, 27 Apr 2021 21:19:25 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -53,15 +53,15 @@
     
     <item>
       <title><![CDATA[
-            storybook
+            sentry-module
 ]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
+      <link>https://github.com/nuxt-community/sentry-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 18:42:36 -0000</pubDate>
+        <pubDate>Tue, 27 Apr 2021 15:19:53 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
       
     </item>
     
@@ -71,7 +71,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 18:10:51 -0000</pubDate>
+        <pubDate>Tue, 27 Apr 2021 13:03:40 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -85,7 +85,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 18:06:26 -0000</pubDate>
+        <pubDate>Tue, 27 Apr 2021 07:25:47 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -95,57 +95,57 @@
     
     <item>
       <title><![CDATA[
-            speedcurve-module
+            strapi-module
 ]]></title>
-      <link>https://github.com/nuxt-community/speedcurve-module</link>
+      <link>https://github.com/nuxt-community/strapi-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 17:50:49 -0000</pubDate>
+        <pubDate>Tue, 27 Apr 2021 07:00:17 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/speedcurve-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            proxy-module
+            storybook
 ]]></title>
-      <link>https://github.com/nuxt-community/proxy-module</link>
+      <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Mon, 26 Apr 2021 17:50:29 -0000</pubDate>
+        <pubDate>Tue, 27 Apr 2021 01:46:00 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/proxy-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            applicationinsights-module
+            svg-sprite-module
 ]]></title>
-      <link>https://github.com/nuxt-community/applicationinsights-module</link>
+      <link>https://github.com/nuxt-community/svg-sprite-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 17:41:11 -0000</pubDate>
+        <pubDate>Tue, 27 Apr 2021 01:27:58 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/applicationinsights-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            style-resources-module
+            snipcart-module
 ]]></title>
-      <link>https://github.com/nuxt-community/style-resources-module</link>
+      <link>https://github.com/nuxt-community/snipcart-module</link>
       
-        <pubDate>Mon, 26 Apr 2021 17:37:47 -0000</pubDate>
+        <pubDate>Mon, 26 Apr 2021 21:33:31 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/style-resources-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
       
     </item>
     
