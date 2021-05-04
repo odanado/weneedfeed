@@ -7,7 +7,21 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 03 May 2021 00:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 00:07:19 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+            composition-api
+]]></title>
+      <link>https://github.com/nuxt-community/composition-api</link>
+      
+        <pubDate>Mon, 03 May 2021 23:37:45 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -15,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Sun, 02 May 2021 13:21:00 -0000</pubDate>
+        <pubDate>Mon, 03 May 2021 23:20:25 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -25,53 +39,11 @@
     
     <item>
       <title><![CDATA[
-            pwa-module
-]]></title>
-      <link>https://github.com/nuxt-community/pwa-module</link>
-      
-        <pubDate>Sun, 02 May 2021 12:37:05 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/pwa-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            tailwindcss-module
-]]></title>
-      <link>https://github.com/nuxt-community/tailwindcss-module</link>
-      
-        <pubDate>Sun, 02 May 2021 02:57:12 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            storybook
-]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
-      
-        <pubDate>Sun, 02 May 2021 02:05:17 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
             svg-sprite-module
 ]]></title>
       <link>https://github.com/nuxt-community/svg-sprite-module</link>
       
-        <pubDate>Sun, 02 May 2021 01:41:44 -0000</pubDate>
+        <pubDate>Mon, 03 May 2021 22:43:04 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -81,15 +53,15 @@
     
     <item>
       <title><![CDATA[
-            html-validator-module
+            amp-module
 ]]></title>
-      <link>https://github.com/nuxt-community/html-validator-module</link>
+      <link>https://github.com/nuxt-community/amp-module</link>
       
-        <pubDate>Sun, 02 May 2021 01:05:35 -0000</pubDate>
+        <pubDate>Mon, 03 May 2021 19:47:24 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/html-validator-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/amp-module</guid>
       
     </item>
     
@@ -99,7 +71,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/nuxt-logrocket</link>
       
-        <pubDate>Sat, 01 May 2021 11:01:27 -0000</pubDate>
+        <pubDate>Mon, 03 May 2021 19:47:14 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -109,11 +81,39 @@
     
     <item>
       <title><![CDATA[
+            i18n-module
+]]></title>
+      <link>https://github.com/nuxt-community/i18n-module</link>
+      
+        <pubDate>Mon, 03 May 2021 19:39:37 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            guess-module
+]]></title>
+      <link>https://github.com/nuxt-community/guess-module</link>
+      
+        <pubDate>Mon, 03 May 2021 19:24:21 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/guess-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
             dayjs-module
 ]]></title>
       <link>https://github.com/nuxt-community/dayjs-module</link>
       
-        <pubDate>Sat, 01 May 2021 00:56:45 -0000</pubDate>
+        <pubDate>Mon, 03 May 2021 19:24:08 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -123,29 +123,29 @@
     
     <item>
       <title><![CDATA[
-            sentry-module
+            google-adsense-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/google-adsense-module</link>
       
-        <pubDate>Fri, 30 Apr 2021 14:53:59 -0000</pubDate>
+        <pubDate>Mon, 03 May 2021 19:13:10 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/google-adsense-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            composition-api
+            tailwindcss-module
 ]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Fri, 30 Apr 2021 11:22:55 -0000</pubDate>
+        <pubDate>Mon, 03 May 2021 19:03:13 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
       
     </item>
     
