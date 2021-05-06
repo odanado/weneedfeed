@@ -7,33 +7,33 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 05 May 2021 00:58:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 May 2021 00:57:39 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
-            sentry-module
+            svg-sprite-module
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/svg-sprite-module</link>
       
-        <pubDate>Tue, 04 May 2021 23:40:19 -0000</pubDate>
+        <pubDate>Thu, 06 May 2021 00:49:57 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            i18n-module
+            sanity-module
 ]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
+      <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Tue, 04 May 2021 20:56:39 -0000</pubDate>
+        <pubDate>Thu, 06 May 2021 00:27:11 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
       
     </item>
     
@@ -43,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/auth-module</link>
       
-        <pubDate>Tue, 04 May 2021 19:08:46 -0000</pubDate>
+        <pubDate>Wed, 05 May 2021 23:07:13 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -53,29 +53,15 @@
     
     <item>
       <title><![CDATA[
-            device-module
+            strapi-module
 ]]></title>
-      <link>https://github.com/nuxt-community/device-module</link>
+      <link>https://github.com/nuxt-community/strapi-module</link>
       
-        <pubDate>Tue, 04 May 2021 18:04:10 -0000</pubDate>
+        <pubDate>Wed, 05 May 2021 22:13:44 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            color-mode-module
-]]></title>
-      <link>https://github.com/nuxt-community/color-mode-module</link>
-      
-        <pubDate>Tue, 04 May 2021 18:02:09 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/color-mode-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
       
     </item>
     
@@ -85,7 +71,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/firebase-module</link>
       
-        <pubDate>Tue, 04 May 2021 17:47:54 -0000</pubDate>
+        <pubDate>Wed, 05 May 2021 22:03:26 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -95,29 +81,29 @@
     
     <item>
       <title><![CDATA[
-            nuxt-logrocket
+            tailwindcss-module
 ]]></title>
-      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Tue, 04 May 2021 17:39:52 -0000</pubDate>
+        <pubDate>Wed, 05 May 2021 21:31:08 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            prismic-module
+            storybook
 ]]></title>
-      <link>https://github.com/nuxt-community/prismic-module</link>
+      <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Tue, 04 May 2021 17:33:59 -0000</pubDate>
+        <pubDate>Wed, 05 May 2021 21:06:43 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/prismic-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
       
     </item>
     
@@ -127,7 +113,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/dayjs-module</link>
       
-        <pubDate>Tue, 04 May 2021 17:27:33 -0000</pubDate>
+        <pubDate>Wed, 05 May 2021 15:24:35 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -137,15 +123,29 @@
     
     <item>
       <title><![CDATA[
-            strapi-module
+            composition-api
 ]]></title>
-      <link>https://github.com/nuxt-community/strapi-module</link>
+      <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Tue, 04 May 2021 17:23:46 -0000</pubDate>
+        <pubDate>Wed, 05 May 2021 14:41:23 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            i18n-module
+]]></title>
+      <link>https://github.com/nuxt-community/i18n-module</link>
+      
+        <pubDate>Wed, 05 May 2021 14:22:12 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
       
     </item>
     
