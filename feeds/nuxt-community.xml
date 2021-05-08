@@ -7,7 +7,21 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 07 May 2021 01:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 May 2021 00:58:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+            svg-sprite-module
+]]></title>
+      <link>https://github.com/nuxt-community/svg-sprite-module</link>
+      
+        <pubDate>Sat, 08 May 2021 00:57:09 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -15,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Fri, 07 May 2021 00:51:44 -0000</pubDate>
+        <pubDate>Sat, 08 May 2021 00:49:38 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -25,11 +39,25 @@
     
     <item>
       <title><![CDATA[
+            dayjs-module
+]]></title>
+      <link>https://github.com/nuxt-community/dayjs-module</link>
+      
+        <pubDate>Sat, 08 May 2021 00:48:06 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
             html-validator-module
 ]]></title>
       <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Fri, 07 May 2021 00:41:36 -0000</pubDate>
+        <pubDate>Sat, 08 May 2021 00:41:56 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -39,67 +67,11 @@
     
     <item>
       <title><![CDATA[
-            sanity-module
-]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
-      
-        <pubDate>Thu, 06 May 2021 18:12:51 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            i18n-module
-]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
-      
-        <pubDate>Thu, 06 May 2021 15:21:28 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            prismic-module
-]]></title>
-      <link>https://github.com/nuxt-community/prismic-module</link>
-      
-        <pubDate>Thu, 06 May 2021 14:39:08 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/prismic-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            firebase-module
-]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
-      
-        <pubDate>Thu, 06 May 2021 10:15:09 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
             composition-api
 ]]></title>
       <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Thu, 06 May 2021 10:11:13 -0000</pubDate>
+        <pubDate>Fri, 07 May 2021 17:15:45 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -109,11 +81,25 @@
     
     <item>
       <title><![CDATA[
+            sanity-module
+]]></title>
+      <link>https://github.com/nuxt-community/sanity-module</link>
+      
+        <pubDate>Fri, 07 May 2021 17:03:02 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
             tailwindcss-module
 ]]></title>
       <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Thu, 06 May 2021 08:02:18 -0000</pubDate>
+        <pubDate>Fri, 07 May 2021 12:15:42 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -123,29 +109,43 @@
     
     <item>
       <title><![CDATA[
-            google-adsense-module
+            ackee-module
 ]]></title>
-      <link>https://github.com/nuxt-community/google-adsense-module</link>
+      <link>https://github.com/nuxt-community/ackee-module</link>
       
-        <pubDate>Thu, 06 May 2021 04:30:52 -0000</pubDate>
+        <pubDate>Fri, 07 May 2021 10:32:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/google-adsense-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/ackee-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            svg-sprite-module
+            prismic-module
 ]]></title>
-      <link>https://github.com/nuxt-community/svg-sprite-module</link>
+      <link>https://github.com/nuxt-community/prismic-module</link>
       
-        <pubDate>Thu, 06 May 2021 00:49:57 -0000</pubDate>
+        <pubDate>Fri, 07 May 2021 10:32:36 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/prismic-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            amp-module
+]]></title>
+      <link>https://github.com/nuxt-community/amp-module</link>
+      
+        <pubDate>Fri, 07 May 2021 09:46:39 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/amp-module</guid>
       
     </item>
     
