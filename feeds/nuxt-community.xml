@@ -7,7 +7,35 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 09 May 2021 01:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 01:02:13 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+            dayjs-module
+]]></title>
+      <link>https://github.com/nuxt-community/dayjs-module</link>
+      
+        <pubDate>Mon, 10 May 2021 00:56:27 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            storybook
+]]></title>
+      <link>https://github.com/nuxt-community/storybook</link>
+      
+        <pubDate>Mon, 10 May 2021 00:44:46 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -15,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Sun, 09 May 2021 01:02:14 -0000</pubDate>
+        <pubDate>Mon, 10 May 2021 00:41:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -29,7 +57,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/html-validator-module</link>
       
-        <pubDate>Sun, 09 May 2021 00:58:40 -0000</pubDate>
+        <pubDate>Mon, 10 May 2021 00:33:20 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -39,113 +67,85 @@
     
     <item>
       <title><![CDATA[
-            firebase-module
+            speedcurve-module
 ]]></title>
-      <link>https://github.com/nuxt-community/firebase-module</link>
+      <link>https://github.com/nuxt-community/speedcurve-module</link>
       
-        <pubDate>Sat, 08 May 2021 21:47:52 -0000</pubDate>
+        <pubDate>Sun, 09 May 2021 23:36:05 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/firebase-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/speedcurve-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            composition-api
+            emotion-module
 ]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
+      <link>https://github.com/nuxt-community/emotion-module</link>
       
-        <pubDate>Sat, 08 May 2021 21:43:36 -0000</pubDate>
+        <pubDate>Sun, 09 May 2021 23:34:51 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/emotion-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            strapi-module
+            mdx-module
 ]]></title>
-      <link>https://github.com/nuxt-community/strapi-module</link>
+      <link>https://github.com/nuxt-community/mdx-module</link>
       
-        <pubDate>Sat, 08 May 2021 20:29:30 -0000</pubDate>
+        <pubDate>Sun, 09 May 2021 23:27:34 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/mdx-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            storybook
+            router-extras-module
 ]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
+      <link>https://github.com/nuxt-community/router-extras-module</link>
       
-        <pubDate>Sat, 08 May 2021 16:48:05 -0000</pubDate>
+        <pubDate>Sun, 09 May 2021 23:08:12 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/router-extras-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            amp-module
+            nuxt7
 ]]></title>
-      <link>https://github.com/nuxt-community/amp-module</link>
+      <link>https://github.com/nuxt-community/nuxt7</link>
       
-        <pubDate>Sat, 08 May 2021 16:06:51 -0000</pubDate>
+        <pubDate>Sun, 09 May 2021 23:05:57 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/amp-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt7</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            moment-module
+            axios-module
 ]]></title>
-      <link>https://github.com/nuxt-community/moment-module</link>
+      <link>https://github.com/nuxt-community/axios-module</link>
       
-        <pubDate>Sat, 08 May 2021 09:42:54 -0000</pubDate>
+        <pubDate>Sun, 09 May 2021 22:58:46 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/moment-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            dayjs-module
-]]></title>
-      <link>https://github.com/nuxt-community/dayjs-module</link>
-      
-        <pubDate>Sat, 08 May 2021 07:48:44 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/dayjs-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            auth-module
-]]></title>
-      <link>https://github.com/nuxt-community/auth-module</link>
-      
-        <pubDate>Sat, 08 May 2021 06:57:03 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/axios-module</guid>
       
     </item>
     
