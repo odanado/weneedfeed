@@ -7,7 +7,21 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 11 May 2021 01:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 01:03:35 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+            storybook
+]]></title>
+      <link>https://github.com/nuxt-community/storybook</link>
+      
+        <pubDate>Wed, 12 May 2021 01:02:53 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -15,7 +29,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/svg-sprite-module</link>
       
-        <pubDate>Tue, 11 May 2021 00:48:44 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 00:54:47 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -29,7 +43,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/firebase-module</link>
       
-        <pubDate>Tue, 11 May 2021 00:46:38 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 00:52:32 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -39,11 +53,67 @@
     
     <item>
       <title><![CDATA[
+            strapi-module
+]]></title>
+      <link>https://github.com/nuxt-community/strapi-module</link>
+      
+        <pubDate>Wed, 12 May 2021 00:48:14 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            prismic-module
+]]></title>
+      <link>https://github.com/nuxt-community/prismic-module</link>
+      
+        <pubDate>Wed, 12 May 2021 00:43:37 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/prismic-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            ackee-module
+]]></title>
+      <link>https://github.com/nuxt-community/ackee-module</link>
+      
+        <pubDate>Wed, 12 May 2021 00:35:29 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/ackee-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            cloudinary-module
+]]></title>
+      <link>https://github.com/nuxt-community/cloudinary-module</link>
+      
+        <pubDate>Wed, 12 May 2021 00:16:38 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/cloudinary-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
             sanity-module
 ]]></title>
       <link>https://github.com/nuxt-community/sanity-module</link>
       
-        <pubDate>Tue, 11 May 2021 00:23:54 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 00:15:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -53,99 +123,29 @@
     
     <item>
       <title><![CDATA[
-            sentry-module
+            composition-api
 ]]></title>
-      <link>https://github.com/nuxt-community/sentry-module</link>
+      <link>https://github.com/nuxt-community/composition-api</link>
       
-        <pubDate>Tue, 11 May 2021 00:11:29 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 00:14:06 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            i18n-module
+            auth-module
 ]]></title>
-      <link>https://github.com/nuxt-community/i18n-module</link>
+      <link>https://github.com/nuxt-community/auth-module</link>
       
-        <pubDate>Tue, 11 May 2021 00:00:16 -0000</pubDate>
+        <pubDate>Tue, 11 May 2021 22:54:48 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/i18n-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            snipcart-module
-]]></title>
-      <link>https://github.com/nuxt-community/snipcart-module</link>
-      
-        <pubDate>Mon, 10 May 2021 23:49:07 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/snipcart-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            tailwindcss-module
-]]></title>
-      <link>https://github.com/nuxt-community/tailwindcss-module</link>
-      
-        <pubDate>Mon, 10 May 2021 20:58:56 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            storybook
-]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
-      
-        <pubDate>Mon, 10 May 2021 20:09:05 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            nuxt-logrocket
-]]></title>
-      <link>https://github.com/nuxt-community/nuxt-logrocket</link>
-      
-        <pubDate>Mon, 10 May 2021 19:50:27 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-logrocket</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            amp-module
-]]></title>
-      <link>https://github.com/nuxt-community/amp-module</link>
-      
-        <pubDate>Mon, 10 May 2021 19:18:16 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/amp-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
       
     </item>
     
