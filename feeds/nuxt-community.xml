@@ -7,35 +7,7 @@
     <link>https://github.com/nuxt-community</link>
     <atom:link href="https://odanado.github.io/weneedfeed/feeds/nuxt-community.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 12 May 2021 01:03:35 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[
-            storybook
-]]></title>
-      <link>https://github.com/nuxt-community/storybook</link>
-      
-        <pubDate>Wed, 12 May 2021 01:02:53 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            svg-sprite-module
-]]></title>
-      <link>https://github.com/nuxt-community/svg-sprite-module</link>
-      
-        <pubDate>Wed, 12 May 2021 00:54:47 -0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/svg-sprite-module</guid>
-      
-    </item>
+    <lastBuildDate>Thu, 13 May 2021 00:09:11 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
@@ -43,7 +15,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/firebase-module</link>
       
-        <pubDate>Wed, 12 May 2021 00:52:32 -0000</pubDate>
+        <pubDate>Thu, 13 May 2021 00:06:39 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -53,43 +25,43 @@
     
     <item>
       <title><![CDATA[
-            strapi-module
+            sentry-module
 ]]></title>
-      <link>https://github.com/nuxt-community/strapi-module</link>
+      <link>https://github.com/nuxt-community/sentry-module</link>
       
-        <pubDate>Wed, 12 May 2021 00:48:14 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 21:07:55 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/sentry-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            prismic-module
+            nuxt-extend
 ]]></title>
-      <link>https://github.com/nuxt-community/prismic-module</link>
+      <link>https://github.com/nuxt-community/nuxt-extend</link>
       
-        <pubDate>Wed, 12 May 2021 00:43:37 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 19:39:36 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/prismic-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/nuxt-extend</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            ackee-module
+            device-module
 ]]></title>
-      <link>https://github.com/nuxt-community/ackee-module</link>
+      <link>https://github.com/nuxt-community/device-module</link>
       
-        <pubDate>Wed, 12 May 2021 00:35:29 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 19:17:10 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/ackee-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/device-module</guid>
       
     </item>
     
@@ -99,7 +71,7 @@
 ]]></title>
       <link>https://github.com/nuxt-community/cloudinary-module</link>
       
-        <pubDate>Wed, 12 May 2021 00:16:38 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 19:07:30 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -109,43 +81,71 @@
     
     <item>
       <title><![CDATA[
-            sanity-module
+            storybook
 ]]></title>
-      <link>https://github.com/nuxt-community/sanity-module</link>
+      <link>https://github.com/nuxt-community/storybook</link>
       
-        <pubDate>Wed, 12 May 2021 00:15:39 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 18:07:21 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/sanity-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/storybook</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            composition-api
+            tailwindcss-module
 ]]></title>
-      <link>https://github.com/nuxt-community/composition-api</link>
+      <link>https://github.com/nuxt-community/tailwindcss-module</link>
       
-        <pubDate>Wed, 12 May 2021 00:14:06 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 18:01:57 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/composition-api</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/tailwindcss-module</guid>
       
     </item>
     
     <item>
       <title><![CDATA[
-            auth-module
+            ackee-module
 ]]></title>
-      <link>https://github.com/nuxt-community/auth-module</link>
+      <link>https://github.com/nuxt-community/ackee-module</link>
       
-        <pubDate>Tue, 11 May 2021 22:54:48 -0000</pubDate>
+        <pubDate>Wed, 12 May 2021 17:56:50 -0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://github.com/nuxt-community/auth-module</guid>
+      <guid isPermaLink="true">https://github.com/nuxt-community/ackee-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            google-fonts-module
+]]></title>
+      <link>https://github.com/nuxt-community/google-fonts-module</link>
+      
+        <pubDate>Wed, 12 May 2021 17:56:17 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/google-fonts-module</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            strapi-module
+]]></title>
+      <link>https://github.com/nuxt-community/strapi-module</link>
+      
+        <pubDate>Wed, 12 May 2021 17:53:06 -0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://github.com/nuxt-community/strapi-module</guid>
       
     </item>
     
